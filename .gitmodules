@@ -1,0 +1,6 @@
+[submodule "SpiruLab-App"]
+	path = SpiruLab-App
+	url = https://github.com/Islam-abdelwahed/SpiruLab-App
+[submodule "SpiruLab-Firmware"]
+	path = SpiruLab-Firmware
+	url = https://github.com/Islam-abdelwahed/SpiruLab-Firmware
